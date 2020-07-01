@@ -1,0 +1,6 @@
+cmd管理员身份运行
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX #换密钥
+
+slmgr /skms  192.168.253.50              #指定kms激活服务器
+
+slmgr /ato                               #相当于点击激活按钮
